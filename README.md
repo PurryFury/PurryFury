@@ -1,15 +1,12 @@
 # [![egor kharatyan header](Untitled.png)](http://egor.co.za)
 
-<img src="hackerman.gif" width="50px"/>
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurryFury&theme=blue-green" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PurryFury&theme=blue-green" />
 
 ### Hi there 👋
 I enjoy solving problems with computers and verious technologies they provide. I play a lot of video games and collect founttain pens 🖋️
 
-#[Technologies and Tools]
+# Technologies and Tools <img src="hackerman.gif" width="50px"/>
 <!--
 **PurryFury/PurryFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
