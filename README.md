@@ -4,9 +4,21 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PurryFury&theme=blue-green" />
 
 ### Hi there 👋
-I enjoy solving problems with computers and verious technologies they provide. I play a lot of video games and collect founttain pens 🖋️
+I enjoy solving problems with computers and verious technologies they provide. I play a lot of video games and collect founttain pens 🖋️ . I am all for open-source so use my code as you like, just include my name in it.
 
-# Technologies and Tools <img src="hackerman.gif" width="50px"/>
+### Technologies and Tools <img src="hackerman.gif" width="50px"/>
+#### Languages I use and Like
+<ul>
+  <li> C++ </li>
+  <li> Java </li>
+  <li> PHP </li>
+  <li> Ionic(AngularJS) </li>
+  <li> Python </li>
+</ul>
+#### OS
+<ul>
+  <li> Pop!_OS </li>
+</ul>
 <!--
 **PurryFury/PurryFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
