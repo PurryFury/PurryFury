@@ -4,6 +4,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurryFury&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=PurryFury&theme=blue-green" />
 
 ### Hi there 👋
 
