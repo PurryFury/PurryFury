@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/PurryFury/PurryFury/Untitled.png)](http://egor.co.za)
+# [![egor kharatyan header](https://raw.githubusercontent.com/main/PurryFury/PurryFury/Untitled.png)](http://egor.co.za)
 <!--
 **PurryFury/PurryFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
