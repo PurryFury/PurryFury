@@ -24,7 +24,7 @@ I enjoy solving problems with computers and verious technologies they provide. I
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn]<img src="Linkedin.png" width="25px"/>][1].
+You can find me on <img src="Linkedin.png" width="25px"/>[1].
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/egor-kharatyan-37a86620b/
