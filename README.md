@@ -7,7 +7,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PurryFury&theme=blue-green" />
 
 ### Hi there 👋
-I enjoy solving problems with computers and verious technologies they provide. I play a lot of video games and collect founttain pens
+I enjoy solving problems with computers and verious technologies they provide. I play a lot of video games and collect founttain pens 🖋️
 
 #Technologies and Tools
 <!--
