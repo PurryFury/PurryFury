@@ -1,12 +1,12 @@
-### Hi there 👋
-
 # [![Header](https://raw.githubusercontent.com/PurryFury/PurryFury/Untitled.png "Header")](http://egor.co.za/)
 <!--
 **PurryFury/PurryFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 <img src="https://raw.githubusercontent.com/PurryFury/PurryFury/master/hackerman.gif" width="30px">
 <img src="https://raw.githubusercontent.com/PurryFury/PurryFury/master/tenor.gif" width="30px">
 
+### Hi there 👋
 
 Here are some ideas to get you started:
 
