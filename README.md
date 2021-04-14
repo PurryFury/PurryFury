@@ -3,8 +3,8 @@
 **PurryFury/PurryFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img src="hackerman.gif" width="30px">
-<img src="tenor.gif" width="30px">
+<img src="hackerman.gif" width="30px"/>
+<img src="tenor.gif" width="30px"/>
 
 ### Hi there 👋
 
