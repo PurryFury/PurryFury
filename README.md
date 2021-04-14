@@ -9,7 +9,7 @@
 ### Hi there 👋
 I enjoy solving problems with computers and verious technologies they provide. I play a lot of video games and collect founttain pens 🖋️
 
-#Technologies and Tools
+#[Technologies and Tools]
 <!--
 **PurryFury/PurryFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
