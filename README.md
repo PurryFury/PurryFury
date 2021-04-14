@@ -15,7 +15,7 @@ I enjoy solving problems with computers and verious technologies they provide. I
   <li> Ionic(AngularJS) </li>
   <li> Python </li>
 </ul>
-#### Operating System
+####Operating System
 <ul>
   <li> Pop!_OS </li>
 </ul>
