@@ -1,4 +1,4 @@
-# [![Header](https://raw.githubusercontent.com/PurryFury/PurryFury/Untitled.png "Header")](http://egor.co.za/)
+# [![Header](https://raw.githubusercontent.com/PurryFury/PurryFury/Untitled.png)](http://egor.co.za/)
 <!--
 **PurryFury/PurryFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
