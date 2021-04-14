@@ -24,7 +24,7 @@ I enjoy solving problems with computers and verious technologies they provide. I
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1].
+You can find me on [![LinkedIn]<img src="Linkedin.png" width="50px"/>][1].
 
 <!-- Icons -->
 [1.2]: <img src="Linkedin.png" width="50px"/>
