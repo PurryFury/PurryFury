@@ -1,7 +1,9 @@
 # [![egor kharatyan header](Untitled.png)](http://egor.co.za)
 
-<img src="hackerman.gif" width="30px"/>
-<img src="tenor.gif" width="30px"/>
+<img src="hackerman.gif" width="50px"/>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurryFury&theme=blue-green" />
 
 ### Hi there 👋
 
