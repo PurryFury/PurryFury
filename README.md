@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PurryFury&theme=blue-green" />
 
 ### Hi there 👋
-I enjoy solving problems with computers and verious technologies they provide. I play a lot of video games and collect founttain pens 🖋️ . I am all for open-source so use my code as you like, just include my name in it.
+I enjoy solving problems with computers and varios technologies they provide. I play a lot of video games and collect founttain pens 🖋️ . I am all for open-source so use my code as you like, but please do not mention my name anywhere near my code.
 
 ### Technologies and Tools <img src="hackerman.gif" width="50px"/>
 #### Languages/Frameworks I use and Like
